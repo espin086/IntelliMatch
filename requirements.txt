@@ -1,0 +1,12 @@
+numba==0.60.0
+llvmlite
+numpy<2.0.0,>=1.26.0
+openai
+pandas
+plotly
+protobuf
+streamlit
+ydata-profiling
+google-cloud-bigquery
+dedup
+unidecode
